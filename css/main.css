@@ -14136,7 +14136,8 @@ be a descendant of the grid when it is being dragged.
 
 @media (max-width: 480px) {
   .app-title p {
-    display: none;
+    /* //overight */
+   /*  display: none; */
   }
 }
 
